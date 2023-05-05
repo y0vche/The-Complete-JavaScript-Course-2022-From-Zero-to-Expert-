@@ -17,5 +17,5 @@ js = 'boring'
 // Click UP ARROW key to go to the previous command in the browser Cosole window 
  
 
-// --------------------
+// ---------------------
 // console.log(40 + 8 + 23 - 10);
